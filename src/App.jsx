@@ -1,6 +1,6 @@
 
 import React from 'react'
-import { BrowserRouter, NavLink, Route, Routes } from 'react-router-dom'
+import { BrowserRouter, Link, NavLink, Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import About from './pages/About'
 
